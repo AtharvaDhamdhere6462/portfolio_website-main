@@ -1,0 +1,31 @@
+{
+    "education": [
+        {
+            "date": "2023-2027",
+            "title": "B.Tech, Computer Science",
+            "institution": "KIT's College of Engineering",
+            "location": "Kolhapur, Maharashtra",
+            "specialization": "Artificial Intelligence and Machine Learning",
+            "grade": "8.50",
+            "gradeLabel": "CGPA"
+        },
+        {
+            "date": "2023",
+            "title": "Higher Secondary",
+            "institution": "Shri. Sambhajiraje Secondary and Higher Secondary School",
+            "location": "Pune, Maharashtra",
+            "specialization": "",
+            "grade": "70.31%",
+            "gradeLabel": "Score"
+        },
+        {
+            "date": "2021",
+            "title": "Secondary School",
+            "institution": "Glory English Medium School",
+            "location": "Pune, Maharashtra",
+            "specialization": "",
+            "grade": "83%",
+            "gradeLabel": "Score"
+        }
+    ]
+}

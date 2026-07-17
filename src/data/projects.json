@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+            "number": "01",
+            "title": "Connectify",
+            "category": "Web Development /  Real Time Video Conferencing Platform   •  2024  •  Independent Developer",
+            "description": " Connectify – Real Time Video Conferencing Platform        • Developed a real-time video conferencing platform using React.js and Node.js with virtual meeting rooms. •  Integrated WebRTC and Socket.io for live video/audio communication and real-time chat. •  Implemented secure authentication and meeting history management using MongoDB. ",
+            "tags": [
+                "React.js", 
+                "Node.js", "Express.js", "MongoDB", "Socket.io", "WebRTC", "Axios", "Material UI "
+            ],
+            "gradient": "from-amber-600 to-orange-700",
+            "tagBg": "bg-amber-500/30",
+            "linkColor": "text-indigo-400 hover:text-indigo-300",
+            "demoText": "Live Demo",
+            "githubUrl": "https://github.com/AtharvaDhamdhere6462/Connectify.git",
+            "liveUrl": " https://connectifyfrontend-9z9v.onrender.com/ ",
+            "image": "/images/connectify.png"
+        },
+        {
+            "number": "02",
+            "title": "Wanderlust ",
+            "category": "Full Stack /  Travel Listing Platform  •  2025  •  Independent Developer",
+            "description": "• Developed a full-stack travel listing platform using Node.js, Express.js, MongoDB, and EJS following MVC architecture. • Implemented authentication and authorization using Passport.js with session management. • Built CRUD functionality for listings and reviews with Joi validation and responsive UI.",
+            "tags": [
+                "Node.js",
+                "Express.js",
+                "Mongoose",
+                "MongoDB",
+                "EJS",
+                "Bootstrap",
+                "Passport.js",
+                "Joi."
+            ],
+            "gradient": "from-amber-600 to-orange-700",
+            "tagBg": "bg-amber-500/30",
+            "linkColor": "text-amber-400 hover:text-amber-300",
+            "demoText": "Live Demo",
+            "githubUrl": "https://github.com/AtharvaDhamdhere6462/Wanderlust.git",
+            "liveUrl": "https://wanderlust-qc6r.onrender.com",
+            "image": "/images/wanderlust.png"
+        },
+        {
+            "number": "03",
+            "title": "Mess & Canteen Management System",
+            "category": "Full Stack / Management System  •  2025  •  Collaborative Project",
+            "description": "A full-stack web application for managing mess/canteen operations including student billing, attendance tracking, staff management, and expense tracking.",
+            "tags": [
+                "Javascript",
+                "TypeScript",
+                "Tailwind",
+                "MongoDB",
+                "Node.js"
+            ],
+            "gradient": "from-amber-600 to-orange-700",
+            "tagBg": "bg-amber-500/30",
+            "linkColor": "text-amber-400 hover:text-amber-300",
+            "demoText": "Live Demo",
+            "githubUrl": "https://github.com/Aadityaa-Sharma/Mess-Canteen-Mangement-Software",
+            "liveUrl": "https://sagar-mess.vercel.app/",
+            "image": "/images/sagarmess.png"
+        }
+    ]
+}

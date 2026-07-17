@@ -1,0 +1,33 @@
+# Production Dependencies
+react@^19.2.3
+react-dom@^19.2.3
+framer-motion@^12.23.26
+gsap@^3.14.2
+three@^0.182.0
+postprocessing@^6.38.1
+clsx@^2.1.1
+tailwind-merge@^3.4.0
+lucide-react@^0.562.0
+motion@^12.23.26
+ogl@^1.0.11
+recharts@^3.6.0
+face-api.js@^0.22.2
+
+# Development Dependencies
+@types/react@^19.2.7
+@types/react-dom@^19.2.3
+@types/three@^0.182.0
+@vitejs/plugin-react@^4.3.4
+typescript@~5.9.3
+vite@^7.2.4
+
+# External CDN Resources (loaded via index.html)
+# Tailwind CSS: https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4
+# Google Fonts: Space Grotesk
+# Devicons: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css
+
+# Installation
+# Run: npm install
+
+# Note: Install using npm install (reads from package.json)
+# This file is for reference only

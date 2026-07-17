@@ -1,0 +1,24 @@
+{
+    "stats": [
+        {
+            "value": "5+",
+            "label": "PROJECTS"
+        },
+        {
+            "value": "3 yrs",
+            "label": "LEARNING EXPERIENCE"
+        },
+        {
+            "value": "20+",
+            "label": "TECHNOLOGIES"
+        },
+        {
+            "value": "200+",
+            "label": "LEETCODE"
+        }
+    ],
+    "description": [
+        "I'm a passionate B.Tech student in Computer Science (AIML) at KIT's College of Engineering, Kolhapur. I love building innovative solutions that solve real-world problems.",
+        "My journey in tech started with curiosity and has grown into a deep passion for web development, and creating impactful digital experiences."
+    ]
+}

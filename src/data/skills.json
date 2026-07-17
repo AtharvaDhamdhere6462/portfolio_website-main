@@ -1,0 +1,134 @@
+{
+    "categories": [
+        {
+            "id": "languages",
+            "name": "Programming Languages",
+            "proficiency": 90,
+            "technologies": [
+                {
+                    "name": "Java",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+                },
+                {
+                    "name": "JavaScript",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                },
+                {
+                    "name": "Python",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+                }
+            ]
+        },
+        {
+            "id": "frontend",
+            "name": "Frontend",
+            "proficiency": 92,
+            "technologies": [
+                {
+                    "name": "HTML",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                },
+                {
+                    "name": "CSS",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                },
+                {
+                    "name": "React.js",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                },
+                {
+                    "name": "Bootstrap",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+                },
+                {
+                    "name": "EJS",
+                    "logo": "/images/ejs.svg"
+                }
+            ]
+        },
+        {
+            "id": "backend",
+            "name": "Backend",
+            "proficiency": 88,
+            "technologies": [
+                {
+                    "name": "Node.js",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                },
+                {
+                    "name": "Express.js",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+                }
+            ]
+        },
+        {
+            "id": "database",
+            "name": "Database",
+            "proficiency": 85,
+            "technologies": [
+                {
+                    "name": "MongoDB",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+                },
+                {
+                    "name": "Mongoose",
+                    "logo": "/images/mongoose.svg"
+                }
+            ]
+        },
+        {
+            "id": "tools-tech",
+            "name": "Tools & Technologies",
+            "proficiency": 87,
+            "technologies": [
+                {
+                    "name": "Git",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                },
+                {
+                    "name": "GitHub",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+                },
+                {
+                    "name": "Socket.io",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
+                },
+                {
+                    "name": "WebRTC",
+                    "logo": "https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg"
+                },
+                {
+                    "name": "Axios",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
+                },
+                {
+                    "name": "Passport.js",
+                    "logo": "https://cdn.jsdelivr.net/gh/passport/passport-logo@master/passport-3d.svg"
+                }
+            ]
+        },
+        {
+            "id": "core-concepts",
+            "name": "Core Concepts",
+            "proficiency": 89,
+            "technologies": [
+                {
+                    "name": "Data Structures & Algorithms",
+                    "logo": "/images/dsa.svg"
+                },
+                {
+                    "name": "OOP",
+                    "logo": "/images/oop.svg"
+                },
+                {
+                    "name": "REST APIs",
+                    "logo": "/images/restapi.svg"
+                },
+                {
+                    "name": "MVC Architecture",
+                    "logo": "/images/mvc.svg"
+                }
+            ]
+        }
+    ]
+}

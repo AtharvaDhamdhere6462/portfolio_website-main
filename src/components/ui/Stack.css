@@ -1,0 +1,88 @@
+.stack-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  perspective: 600px;
+}
+
+.card-rotate {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+  outline: none;
+  will-change: transform;
+}
+
+.card-rotate:focus-visible {
+  outline: 2px solid rgba(255, 186, 8, 0.8);
+  outline-offset: 4px;
+  border-radius: 1rem;
+}
+
+.card-rotate-disabled {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  outline: none;
+  will-change: transform;
+}
+
+.card-rotate-disabled:focus-visible {
+  outline: 2px solid rgba(255, 186, 8, 0.8);
+  outline-offset: 4px;
+  border-radius: 1rem;
+}
+
+.card {
+  border-radius: 1rem;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  will-change: transform;
+}
+
+/* Screen reader only class */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .card-rotate,
+  .card-rotate-disabled,
+  .card {
+    transition: transform 0.2s ease;
+  }
+  
+  .stack-container {
+    perspective: none;
+  }
+}
+
+.card img {
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.card-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+}
+

@@ -1,0 +1,40 @@
+{
+    "certifications": [
+        {
+            "id": "cert-01",
+            "title": "MERN Stack Web Development",
+            "issuer": "Udemy / Apna College",
+            "date": "2024",
+            "credentialUrl": "",
+            "skills": ["MERN Stack", "React.js", "Node.js", "MongoDB", "Express.js"],
+            "status": "completed"
+        },
+        {
+            "id": "cert-02",
+            "title": "Java Programming",
+            "issuer": "Udemy / Infosys Springboard",
+            "date": "2024",
+            "credentialUrl": "",
+            "skills": ["Java", "OOP", "Programming Fundamentals"],
+            "status": "completed"
+        },
+        {
+            "id": "cert-03",
+            "title": "Data Structures & Algorithms in Java",
+            "issuer": "Coding Ninjas / Udemy",
+            "date": "2024",
+            "credentialUrl": "",
+            "skills": ["Data Structures", "Algorithms", "Java"],
+            "status": "completed"
+        },
+        {
+            "id": "cert-04",
+            "title": "Git & GitHub",
+            "issuer": "Coursera / Udemy",
+            "date": "2024",
+            "credentialUrl": "",
+            "skills": ["Git", "GitHub", "Version Control"],
+            "status": "completed"
+        }
+    ]
+}
