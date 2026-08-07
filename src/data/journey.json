@@ -1,0 +1,24 @@
+{
+    "milestones": [
+        {
+            "year": "2026",
+            "title": "MarketPulse & Hackathons",
+            "description": "Developed MarketPulse, a full-stack trading ecosystem. Participated in the 7th Edition HSIL Hackathon in collaboration with Harvard T.H. Chan School of Public Health."
+        },
+        {
+            "year": "2025",
+            "title": "Advanced Full-Stack Development",
+            "description": "Built Wanderlust, a full-stack travel listing platform following MVC architecture with robust authentication and Joi schema validation."
+        },
+        {
+            "year": "2024",
+            "title": "Real-Time Video Platform",
+            "description": "Developed Connectify, a real-time video conferencing platform using WebRTC and Socket.io for live communication and meeting management."
+        },
+        {
+            "year": "2023",
+            "title": "Started B.E. Journey",
+            "description": "Joined KIT's College of Engineering, Kolhapur for a B.E. in Computer Science specializing in Artificial Intelligence & Machine Learning."
+        }
+    ]
+}

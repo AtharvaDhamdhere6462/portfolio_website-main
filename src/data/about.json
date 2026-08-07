@@ -1,0 +1,24 @@
+{
+    "stats": [
+        {
+            "value": "3",
+            "label": "FEATURED PROJECTS"
+        },
+        {
+            "value": "3 yrs",
+            "label": "LEARNING EXPERIENCE"
+        },
+        {
+            "value": "20+",
+            "label": "TECHNOLOGIES"
+        },
+        {
+            "value": "200+",
+            "label": "LEETCODE SOLVED"
+        }
+    ],
+    "description": [
+        "I'm a passionate B.E. student in Computer Science (Artificial Intelligence & Machine Learning) at KIT'S College Of Engineering, Kolhapur. I specialize in the MERN stack, real-time communication technologies, and scalable backend design.",
+        "With a strong foundation in Data Structures and Algorithms (solving 200+ LeetCode problems) and hands-on experience building projects like Connectify, Wanderlust, and MarketPulse, I love transforming complex ideas into high-performance, user-centric web applications."
+    ]
+}

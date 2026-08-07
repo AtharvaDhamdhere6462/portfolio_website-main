@@ -1,0 +1,22 @@
+{
+    "education": [
+        {
+            "date": "Aug 2023 – Jul 2026",
+            "title": "B.E. in Computer Science (Artificial Intelligence & Machine Learning)",
+            "institution": "KIT'S College Of Engineering",
+            "location": "Kolhapur, India",
+            "specialization": "Artificial Intelligence & Machine Learning",
+            "grade": "8.5 / 10.0",
+            "gradeLabel": "CGPA"
+        },
+        {
+            "date": "2023",
+            "title": "Higher Secondary School Certificate (XII)",
+            "institution": "Shri. Sambhajiraje Secondary and Higher Secondary School",
+            "location": "Pune, India",
+            "specialization": "",
+            "grade": "70.31%",
+            "gradeLabel": "Percentage"
+        }
+    ]
+}

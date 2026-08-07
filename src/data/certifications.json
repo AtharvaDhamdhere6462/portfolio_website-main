@@ -1,0 +1,31 @@
+{
+    "certifications": [
+        {
+            "id": "cert-01",
+            "title": "Delta Course (Full Stack Web Development)",
+            "issuer": "Apna College",
+            "date": "2024",
+            "credentialUrl": "https://drive.google.com/file/d/1gakWDgqfODQwTCKEWqrVNLLgvgBXoFHh/view?usp=sharing",
+            "skills": ["HTML5", "CSS3", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", "Mongoose"],
+            "status": "completed"
+        },
+        {
+            "id": "cert-02",
+            "title": "Alpha Course (DSA with Java)",
+            "issuer": "Apna College",
+            "date": "2024",
+            "credentialUrl": "https://drive.google.com/file/d/1gakWDgqfODQwTCKEWqrVNLLgvgBXoFHh/view?usp=sharing",
+            "skills": ["Java", "Data Structures", "Algorithms", "OOP"],
+            "status": "completed"
+        },
+        {
+            "id": "cert-03",
+            "title": "AI Research Foundations Course 5",
+            "issuer": "Google DeepMind",
+            "date": "2025",
+            "credentialUrl": "",
+            "skills": ["AI Foundations", "Research Methods", "AI Governance"],
+            "status": "completed"
+        }
+    ]
+}

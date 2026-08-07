@@ -1,0 +1,154 @@
+{
+    "categories": [
+        {
+            "id": "languages",
+            "name": "Programming Languages",
+            "proficiency": 90,
+            "technologies": [
+                {
+                    "name": "Java",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+                },
+                {
+                    "name": "JavaScript",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                }
+            ]
+        },
+        {
+            "id": "frontend",
+            "name": "Frontend Development",
+            "proficiency": 92,
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                },
+                {
+                    "name": "CSS3",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                },
+                {
+                    "name": "React.js",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                },
+                {
+                    "name": "Bootstrap",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+                },
+                {
+                    "name": "EJS",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg"
+                },
+                {
+                    "name": "Material UI",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+                }
+            ]
+        },
+        {
+            "id": "backend",
+            "name": "Backend Development",
+            "proficiency": 88,
+            "technologies": [
+                {
+                    "name": "Node.js",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                },
+                {
+                    "name": "Express.js",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+                },
+                {
+                    "name": "REST APIs",
+                    "logo": "https://img.icons8.com/color/48/api.png"
+                }
+            ]
+        },
+        {
+            "id": "database",
+            "name": "Databases",
+            "proficiency": 85,
+            "technologies": [
+                {
+                    "name": "MongoDB",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+                },
+                {
+                    "name": "Mongoose",
+                    "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"
+                },
+                {
+                    "name": "MySQL",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                }
+            ]
+        },
+        {
+            "id": "tools-tech",
+            "name": "Tools & Technologies",
+            "proficiency": 87,
+            "technologies": [
+                {
+                    "name": "Git",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                },
+                {
+                    "name": "GitHub",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+                },
+                {
+                    "name": "Socket.io",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
+                },
+                {
+                    "name": "WebRTC",
+                    "logo": "https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg"
+                },
+                {
+                    "name": "Axios",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
+                },
+                {
+                    "name": "Passport.js",
+                    "logo": "https://cdn.jsdelivr.net/gh/passport/passport-logo@master/passport-3d.svg"
+                },
+                {
+                    "name": "Joi",
+                    "logo": "https://img.icons8.com/color/48/shield.png"
+                },
+                {
+                    "name": "Postman",
+                    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+                },
+                {
+                    "name": "Vercel",
+                    "logo": "https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"
+                },
+                {
+                    "name": "Render",
+                    "logo": "https://www.vectorlogo.zone/logos/render/render-icon.svg"
+                }
+            ]
+        },
+        {
+            "id": "core-concepts",
+            "name": "Core Competencies",
+            "proficiency": 89,
+            "technologies": [
+                {
+                    "name": "Data Structures & Algorithms",
+                    "logo": "https://img.icons8.com/color/48/flow-chart.png"
+                },
+                {
+                    "name": "Object Oriented Programming (OOP)",
+                    "logo": "https://img.icons8.com/color/48/object.png"
+                },
+                {
+                    "name": "MVC Architecture",
+                    "logo": "https://img.icons8.com/color/48/hierarchy.png"
+                }
+            ]
+        }
+    ]
+}
