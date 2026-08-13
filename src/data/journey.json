@@ -2,8 +2,13 @@
     "milestones": [
         {
             "year": "2026",
+            "title": "GetIt (AI Search)",
+            "description": "Developed GetIt, a local multimodal semantic search engine utilizing Python, OpenAI CLIP, and Salesforce BLIP for hybrid AI-powered image discovery."
+        },
+        {
+            "year": "2026",
             "title": "MarketPulse & Hackathons",
-            "description": "Developed MarketPulse, a full-stack trading ecosystem. Participated in the 7th Edition HSIL Hackathon in collaboration with Harvard T.H. Chan School of Public Health."
+            "description": "Built MarketPulse, a full-stack trading ecosystem. Participated in the 7th Edition HSIL Hackathon in collaboration with Harvard T.H. Chan School of Public Health."
         },
         {
             "year": "2025",

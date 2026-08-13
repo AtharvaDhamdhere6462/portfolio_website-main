@@ -65,6 +65,28 @@
             "githubUrl": "https://github.com/AtharvaDhamdhere6462",
             "liveUrl": "",
             "image": "/images/marketpulse.png"
+        },
+        {
+            "number": "04",
+            "title": "GetIt",
+            "category": "AI Search / Local Multimodal Semantic Search  •  2026  •  Independent Developer",
+            "description": "• Hybrid AI search combining visual embeddings and semantic captions; offline image indexing; natural language image search. • Supports drag-and-drop uploads, adjustable CLIP vs keyword search weights, and lightweight JSON-based indexing. • Enables fast, private, and intelligent image discovery without relying on cloud APIs, making AI-powered image search accessible and secure for local datasets.",
+            "tags": [
+                "Python",
+                "FastAPI",
+                "OpenAI CLIP",
+                "Salesforce BLIP",
+                "Javascript",
+                "HTML5",
+                "CSS3"
+            ],
+            "gradient": "from-amber-600 to-orange-700",
+            "tagBg": "bg-amber-500/30",
+            "linkColor": "text-indigo-400 hover:text-indigo-300",
+            "demoText": "Coming Soon",
+            "githubUrl": "https://github.com/AtharvaDhamdhere6462",
+            "liveUrl": "",
+            "image": "/images/getit.png"
         }
     ]
 }
