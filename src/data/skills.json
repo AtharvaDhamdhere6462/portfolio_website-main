@@ -61,7 +61,7 @@
                 },
                 {
                     "name": "REST APIs",
-                    "logo": "https://img.icons8.com/color/48/api.png"
+                    "logo": "/images/restapi.svg"
                 }
             ]
         },
@@ -138,27 +138,27 @@
             "technologies": [
                 {
                     "name": "Data Structures & Algorithms (DSA)",
-                    "logo": "https://img.icons8.com/color/48/flow-chart.png"
+                    "logo": "/images/dsa.svg"
                 },
                 {
                     "name": "Object Oriented Programming (OOP)",
-                    "logo": "https://img.icons8.com/color/48/object.png"
+                    "logo": "/images/oop.svg"
                 },
                 {
                     "name": "Operating System (OS)",
-                    "logo": "https://img.icons8.com/color/48/operating-system.png"
+                    "logo": "/images/os.svg"
                 },
                 {
                     "name": "Database Management System (DBMS)",
-                    "logo": "https://img.icons8.com/color/48/database.png"
+                    "logo": "/images/dbms.svg"
                 },
                 {
                     "name": "Computer Networks (CN)",
-                    "logo": "https://img.icons8.com/color/48/lan.png"
+                    "logo": "/images/cn.svg"
                 },
                 {
                     "name": "MVC Architecture",
-                    "logo": "https://img.icons8.com/color/48/hierarchy.png"
+                    "logo": "/images/mvc.svg"
                 }
             ]
         }

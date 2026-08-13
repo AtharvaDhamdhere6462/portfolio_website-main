@@ -7,17 +7,17 @@
         },
         {
             "year": "2025",
-            "title": "Advanced Full-Stack Development",
-            "description": "Built Wanderlust, a full-stack travel listing platform following MVC architecture with robust authentication and Joi schema validation."
-        },
-        {
-            "year": "2024",
-            "title": "Real-Time Video Platform",
+            "title": "Connectify (Second Project)",
             "description": "Developed Connectify, a real-time video conferencing platform using WebRTC and Socket.io for live communication and meeting management."
         },
         {
+            "year": "2024",
+            "title": "Wanderlust (First Project)",
+            "description": "Built Wanderlust, my first full-stack travel listing platform following MVC architecture with robust authentication and Joi schema validation."
+        },
+        {
             "year": "2023",
-            "title": "Started B.E. Journey",
+            "title": "Started B.Tech Journey",
             "description": "Joined KIT's College of Engineering, Kolhapur for a B.E. in Computer Science specializing in Artificial Intelligence & Machine Learning."
         }
     ]

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="8" fill="#1e1e24"/>
+  <!-- Controller (Top) -->
+  <rect x="18" y="8" width="12" height="8" rx="2" fill="#faa307"/>
+  <!-- Model (Left) -->
+  <rect x="8" y="28" width="12" height="8" rx="2" fill="#ffba08"/>
+  <!-- View (Right) -->
+  <rect x="28" y="28" width="12" height="8" rx="2" fill="#d00000"/>
+  <!-- Connections -->
+  <path d="M24 16v6M14 28v-6h20v6" stroke="#ffffff" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>
