@@ -6,7 +6,7 @@
             "proficiency": 90,
             "technologies": [
                 {
-                    "name": "Java",
+                    "name": "Java (Core)",
                     "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
                 },
                 {
@@ -137,12 +137,24 @@
             "proficiency": 89,
             "technologies": [
                 {
-                    "name": "Data Structures & Algorithms",
+                    "name": "Data Structures & Algorithms (DSA)",
                     "logo": "https://img.icons8.com/color/48/flow-chart.png"
                 },
                 {
                     "name": "Object Oriented Programming (OOP)",
                     "logo": "https://img.icons8.com/color/48/object.png"
+                },
+                {
+                    "name": "Operating System (OS)",
+                    "logo": "https://img.icons8.com/color/48/operating-system.png"
+                },
+                {
+                    "name": "Database Management System (DBMS)",
+                    "logo": "https://img.icons8.com/color/48/database.png"
+                },
+                {
+                    "name": "Computer Networks (CN)",
+                    "logo": "https://img.icons8.com/color/48/lan.png"
                 },
                 {
                     "name": "MVC Architecture",
